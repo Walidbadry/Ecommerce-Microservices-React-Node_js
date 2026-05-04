@@ -25,7 +25,7 @@ This project is a **microservices-based e-commerce application** built with **Re
 | **API Gateway** | 8080 | Routes requests to microservices |
 
 ## 🏗️ ERD digram
-<img src="https://raw.githubusercontent.com/Walidbadry/Ecommerce-Microservices-React-Node.js-/refs/heads/main/1%20(1).webp" alt="Description" width="1000" height = "400">
+<img src="https://github.com/Walidbadry/Ecommerce-Microservices-React-Node_js/blob/main/terraform/images.png" alt="Description" width="500" height = "400">
 
 ---
 
