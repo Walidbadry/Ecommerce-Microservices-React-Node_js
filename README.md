@@ -1,5 +1,5 @@
 # 🛍️ E-commerce Microservices App  
-<img src="https://github.com/Walidbadry/Ecommerce-Microservices-React-Node_js/blob/main/terraform/images.png" alt="Description" width="1000" height = "500">
+<img src=" https://github.com/Walidbadry/Ecommerce-Microservices-React-Node_js/blob/main/terraform/Graphic-01-1024x553.webp" alt="Description" width="1000" height = "500">
 
 This project is a **microservices-based e-commerce application** built with **React (frontend), Node.js (backend), and MongoDB**. It is containerized using **Docker** and deployed using **Kubernetes**.  
 
